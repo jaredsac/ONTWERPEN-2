@@ -1,0 +1,5 @@
+vliegtuig---> Aantal zitplekken
+             gordels
+             bagage ruimte
+             wc
+             brandstof
