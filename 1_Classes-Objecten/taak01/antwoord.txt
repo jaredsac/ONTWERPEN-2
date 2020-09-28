@@ -1,0 +1,5 @@
+meubels--> tafel, stoelen, banken
+tassen--> boodschapenstas, rugtas, schooltas
+boeken--> schoolboek, leesboek, schrijfboek
+tv --> philips, samsung, sony
+merk --> nike, adidas, Puma
