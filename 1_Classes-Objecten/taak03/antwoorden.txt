@@ -1,0 +1,8 @@
+bioscoopkaart--> (properties) prijs, kleur,biscoopnaam
+                (medthodes)  filmnaam, zaalnummer
+
+bezoeker-->  (properties) snacks, tijdstip, 
+            (medthodes) genoeg snack, vieze zalen
+
+film--> (properties) reclame, zaal, acteurs
+        (medthodes) aantal kijker, stilte in de zaal
